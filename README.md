@@ -3,6 +3,8 @@ Resume
 
 **Scott Recore | 508-287-6981 | recoredesign@yahoo.com | recoredesign.com**
 
+I am a web developer with a history in design. I specialize in front-end development but I'm comfortable with the full stack. I've worked at small companies and large, and have always focused on getting the job done well. I've worked on front-end coding, back-end systems, UI wireframes, visual design, and lead a small team of designers and developers. I fill whatever role is most useful to the team.
+
 
 Skills
 ------
@@ -32,8 +34,8 @@ Employment History
 *Lead Design Engineer (10/2011 - present)*  
 *Senior Design Engineer (5/2010 - 10/2011)*  
 
-- Yahoo! Purchased Associated Content, but my role has remained the same.
-- Our team has focused on building a quality publishing platform for Yahoo!
+- Yahoo! Purchased Associated Content, but my role as a front-end developer and designer continued.
+- Our team has worked on several products in the past few years, including an internal publishing platform, a social publishing platform, and a tool to import large quantities of content into the Yahoo network.
 - I now focus more on my role as a leader, setting the standards for front-end development and acting as point person for the Design Engineers (myself and two others).
 
 **Associated Content, Denver, CO**  
