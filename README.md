@@ -1,7 +1,7 @@
 Resume
 ======
 
-**Scott Recore | 508-287-6981 | recoredesign@yahoo.com | recoredesign.com**
+**Scott Recore | 508-287-6981 | scott.recore@yahoo.com | scottrecore.com**
 
 I am a web developer with a history in design. I specialize in front-end development but I'm comfortable with the full stack. I've worked at small companies and large, and have always focused on getting the job done well. I've worked on front-end coding, back-end systems, UI wireframes, visual design, and lead a small team of designers and developers. I fill whatever role is most useful to the team.
 
