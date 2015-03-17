@@ -12,29 +12,34 @@ Skills
 - HTML
 - CSS / Less / Sass
 - Javascript
+- Angular
+- Protractor
 - Node JS
 - PHP
-- SEO
-- MySql
-- MongoDB
 - Git
 - SVN
 - Jade
 - Twig
+- SEO
+- MySql
+- MongoDB
 - UI/UX Design
 - Photoshop
 - Illustrator
-- Working Knowledge of: ActionScript (2 + 3), Flash, Ruby, Bash, InDesign, AppleScript, After Effects
-
 
 Employment History
 ------------------
+**TrackVia, Denver, CO**  
+*Senior Front End Developer (3/2014 - Present)*  
+
+- Duties include designing, and implementing the front end of TrackVia as a member of a small team.
+- Implemented automated browser-based testing using Protractor.
 
 **Yahoo!, Denver, CO**  
-*Lead Design Engineer (10/2011 - present)*  
+*Lead Design Engineer (10/2011 - 3/2014)*  
 *Senior Design Engineer (5/2010 - 10/2011)*  
 
-- Yahoo! Purchased Associated Content, but my role as a front-end developer and designer continued.
+- Yahoo! purchased Associated Content, but my role as a front-end developer and designer continued.
 - Our team has worked on several products in the past few years, including an internal publishing platform, a social publishing platform, and a tool to import large quantities of content into the Yahoo network.
 - I now focus more on my role as a leader, setting the standards for front-end development and acting as point person for the Design Engineers (myself and two others).
 
